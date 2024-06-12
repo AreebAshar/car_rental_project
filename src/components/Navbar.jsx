@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Logo from "../images/logo/logo.png";
+// import Logo from "../images/logo/logo.png";
 import { useState } from "react";
 import { IconMenu2, IconX } from "@tabler/icons-react";
 
